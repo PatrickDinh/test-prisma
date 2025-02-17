@@ -1,0 +1,3 @@
+# ... existing entries ...
+*.db
+*.db-journal 
